@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Binary Files - DOCX, JPG & More
 
-[NEXT STEP: asdf](act-5.html){: .btn .btn-blue }
+[NEXT STEP: RStudio Integration](act-5.html){: .btn .btn-blue }
