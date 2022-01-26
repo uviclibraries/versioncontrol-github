@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1-Getting Started
-nav_order: 2
+title: Binary Files
+nav_order: 5
 parent: Workshop Activities
 ---
 
-# title
+# Binary Files - DOCX, JPG & More
 
 [NEXT STEP: asdf](act-5.html){: .btn .btn-blue }
