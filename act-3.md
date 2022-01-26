@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1-Getting Started
-nav_order: 2
+title: 3-Collaborating With Conflict
+nav_order: 4
 parent: Workshop Activities
 ---
 
-# title
+# Collaborating With Conflict
 
 [NEXT STEP: asdf](act-4.html){: .btn .btn-blue }
