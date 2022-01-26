@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Collaborating With Conflict
 
-[NEXT STEP: asdf](act-4.html){: .btn .btn-blue }
+[NEXT STEP: Binary Files - DOCX, JPG & More](act-4.html){: .btn .btn-blue }
