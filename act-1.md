@@ -5,6 +5,6 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-# title
+# Getting Started
 
 [NEXT STEP: asdf](act-2.html){: .btn .btn-blue }
