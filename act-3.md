@@ -20,16 +20,16 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Next click on the **Current Branch** tab on the top nav bar, and select **goats**. Push the change to the **goat** branch to the GitHub website by selecting **Push origin**.
     -   We just created a conflict in the **index.html** file between both the **master** and **goats**.
 3.  Let’s resolve the conflict now:
-    -   asdf
-    -   asdf
-    -   asdf
-    -   asdf
-    -   asdf
-    -   asdf
-    -   asdf
+    -   Open up [https://github.com](https://github.com){:target="_blank"} and navigate to your project. Click on the **Pull requests** tab, and then press the green **New pull request** button on the right of the screen.
+    -   Next select the **compare: master** drop down, and select, **compare: goats** from the menu. Notice that to the right of the drop downs it says, <mark style="color:red;">“Can’t automatically merge...”</mark>, but you can still make a pull request by pressing the green, **Create pull request**.
+    -   Add a descriptive title (E.g. **“Merging "Too" and "2" in the index.html file”**), and then press the green **Create pull request** button.
+    -   On the next web page there is some text that says, “This branch has conflicts that must be resolved.”  Press the grey button to the right of that text that says **Resolve conflicts**.
+    -   Now edit the text to resolve the conflict between the versions of **index.html** on this page, and click **Mark as resolved**.
+    -   Next click on the green **Commit merge** on the top right.
+    -   Lastly on the next page that comes up, select the green **Merge pull request**, and then **Confirm merge**. Done!
 4.  Let’s bring up the network map of the changes you’ve made in your repository.
-    -   asdf
-    -   asdf
+    -   Let’s take a look at a map of your newly un-conflicted repository on the [GitHub website](http://github.com){:target="_blank"}
+    -   Click on the **Code** tab up top, and then the **branches** tab in the middle of the screen.
 5.  Congratulations! You’ve successfully resolved a conflict in GitHub Desktop!
 
 [NEXT STEP: Binary Files - DOCX, JPG & More](act-4.html){: .btn .btn-blue }
