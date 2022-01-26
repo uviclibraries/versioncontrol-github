@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1-Getting Started
-nav_order: 2
+title: Glossary
+nav_order: 7
 parent: Workshop Activities
 ---
 
-# title
+# Glossary
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
