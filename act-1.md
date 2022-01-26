@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Getting Started
 
-[NEXT STEP: asdf](act-2.html){: .btn .btn-blue }
+[NEXT STEP: Collaborating](act-2.html){: .btn .btn-blue }
