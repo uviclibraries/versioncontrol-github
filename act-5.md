@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1-Getting Started
-nav_order: 2
+title: RStudio Integration
+nav_order: 6
 parent: Workshop Activities
 ---
 
-# title
+# RStudio Integration
 
 [NEXT STEP: asdf](act-6.html){: .btn .btn-blue }
