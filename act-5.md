@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # RStudio Integration
 
-[NEXT STEP: asdf](act-6.html){: .btn .btn-blue }
+[NEXT STEP: Glossary](act-6.html){: .btn .btn-blue }
