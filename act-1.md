@@ -44,7 +44,7 @@ If you and your group have any questions, or get stuck as you work through this 
     </html>
     ```
     
-    -   Edit the 4th line of the `index.html` file so that reads as follows then save the file:
+    -   Edit the 4th line of the **index.html** file so that reads as follows then save the file:
     
     ```
     <p>Here’s <a href=”test.html”>a link</a> to a page.</p>
