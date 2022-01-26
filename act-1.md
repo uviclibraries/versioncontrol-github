@@ -18,7 +18,7 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Click on **Create Repository**.
 5.  Add files, commit changes in GitHub Desktop:
     -   Next, open up the Atom text editor, by going to the **Repository** menu, then **Open in External Editor** -or- **Open in Atom**.  **Note:** _You can use any text editor you’d like, but in this tutorial, we will be using the Atom editor._
-    -   Your Atom text editor should open and have two files that were automatically generated when you created your test repository: `.gitattributes` & `README.md`
+    -   Your Atom text editor should open and have two files that were automatically generated when you created your test repository: **.gitattributes** & **README.md**
     -   Create a new file for your GitHub repository in Atom by selecting **File** and then **New File**.
     -   Let’s save the file and give it a name by selecting **File** then **Save**. Call the file **“index.html”** (without the quotation marks). Your new file will show up in the left hand navigation of Atom.
     -   Add the following HTML code to your index.html file:
@@ -35,7 +35,7 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Let’s start to track the changes in index.html by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see **Summary / Update** field; fill it out with a short description (e.g.: “Just created index.html”)  and then press the blue **Commit to master / Commit to main** button below.
     -   Let’s add another file to the repository. In the Atom editor, selecting **File** and then **New File**.
     -   Save the file and give it a name by selecting **File** then **Save**. Call the file **“test.html”**.
-    -   Add the following HTML code to `test.html` and save it:
+    -   Add the following HTML code to **test.html** and save it:
     
     ```
     <html>
@@ -51,7 +51,7 @@ If you and your group have any questions, or get stuck as you work through this 
     ```
     
     -   Now go to GitHub Desktop, and click on the **Changes** tab, add a short summary of the changes you made (e.g.: “Created test.html & linked to it from index.html”), and press the blue **Commit to master** / **Commit to main** button.
-    -   Try deleting the “blink” tags in the index.html file, and then “commit” the changes. If you have any problems with this, ask the person leading the workshop for a hand.
+    -   Try deleting the “blink” tags in the **index.html** file, and then “commit” the changes. If you have any problems with this, ask the person leading the workshop for a hand.
     
 6.  Explore change history & ignore files:
     -   To review changes to files, click on the **History** tab in GitHub Desktop, and select the commits that you would like to look at.
