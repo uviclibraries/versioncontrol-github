@@ -47,7 +47,7 @@ If you and your group have any questions, or get stuck as you work through this 
     </html>
     ```
     
-    <img src="images/act-1/5-4.png" alt="commit" style="float:right;width:180px;">
+    <img src="images/act-1/5-4.png" alt="commit" style="float:right;width:240px;">
     
     -   Save the file in Atom, and then go back to the GitHub Desktop program and you’ll notice that there is a blue dot beside the “Changes” tab. When you change one or more files, all the changed files will be listed below, ready for you to commit them, and track the changes you make between commits.
     -   Let’s start to track the changes in index.html by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see **Summary / Update** field; fill it out with a short description (e.g.: “Just created index.html”)  and then press the blue **Commit to master / Commit to main** button below.
