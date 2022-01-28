@@ -36,7 +36,7 @@ If you and your group have any questions, or get stuck as you work through this 
     
     <img src="images/act-3/3.png" alt="branch conflict" style="float:right;width:240px;">
     
-    -   Next select the **compare: master** drop down, and select, **compare: goats** from the menu. Notice that to the right of the drop downs it says, <mark style="color:red;">“Can’t automatically merge...”</mark>, but you can still make a pull request by pressing the green, **Create pull request**.
+    -   Next select the **compare: master** drop down, and select, **compare: goats** from the menu. Notice that to the right of the drop downs it says, <b><mark style="color:red;">“Can’t automatically merge...”</mark></b>, but you can still make a pull request by pressing the green, **Create pull request**.
     -   Add a descriptive title (E.g. **“Merging "Too" and "2" in the index.html file”**), and then press the green **Create pull request** button.
     -   On the next web page there is some text that says, “This branch has conflicts that must be resolved.”  Press the grey button to the right of that text that says **Resolve conflicts**.
     -   Now edit the text to resolve the conflict between the versions of **index.html** on this page, and click **Mark as resolved**.
