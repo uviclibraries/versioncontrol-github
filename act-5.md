@@ -16,7 +16,7 @@ RStudio with GitHub version control integration allows us to track the developme
 3.  If you haven’t already, [install the free version of RStudio](https://www.rstudio.com/){:target="_blank"} on your laptop.
 4.  Configure RStudio to use GitHub:
     
-    <img src="images/act-5/4.png" alt="" style="float:right;width:180px;">
+    <img src="images/act-5/4.png" alt="configure rstudio to use github" style="float:right;width:360px;">
     
     -   Go to the top menu and select **Tools** then **Global Options** then **GIT/SVN**.
     -   On a **Mac** laptop the Git executable path should be: `/usr/bin/git`
