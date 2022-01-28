@@ -21,7 +21,7 @@ A branch is a parallel version of a repository. It is contained within the repos
 
 ### Merge
 
-Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a pull request (which can be thought of as a request to merge), or via the command line. A merge can be done automatically via a pull request via the GitHub web interface if there are no conflicting changes, or can always be done via the command line. For more information, see ["Merging a pull request."](){:target="_blank"}
+Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a pull request (which can be thought of as a request to merge), or via the command line. A merge can be done automatically via a pull request via the GitHub web interface if there are no conflicting changes, or can always be done via the command line. For more information, see ["Merging a pull request."](https://help.github.com/articles/merging-a-pull-request){:target="_blank"}
 
 ### Push
 
@@ -29,7 +29,7 @@ Pushing refers to sending your committed changes to a remote repository, such as
 
 ### Pull Request
 
-Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum. For more information, see ["About pull requests."](){:target="_blank"}
+Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum. For more information, see ["About pull requests."](https://help.github.com/articles/about-pull-requests){:target="_blank"}
 
 ### Pull
 
@@ -41,7 +41,7 @@ A fork is a personal copy of another user's repository that lives on your accoun
 
 ### Clone
 
-A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. With your clone you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. It is, however, connected to the remote version so that changes can be synced between the two. You can push your local changes to the [remote](){:target="_blank"} to keep them synced when you're online.
+A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. With your clone you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. It is, however, connected to the remote version so that changes can be synced between the two. You can push your local changes to the [remote](https://help.github.com/articles/github-glossary/#remote){:target="_blank"} to keep them synced when you're online.
 
 ### Fetch
 
@@ -57,6 +57,6 @@ A contributor is someone who has contributed to a project by having a pull reque
 
 ### Markdown
 
-Markdown is a simple semantic file format, not too dissimilar from .doc, .rtf and .txt. Markdown makes it easy for even those without a web-publishing background to write prose (including with links, lists, bullets, etc.) and have it displayed like a website. GitHub supports Markdown, and you can [learn about the semantics.](){:target="_blank"}
+Markdown is a simple semantic file format, not too dissimilar from .doc, .rtf and .txt. Markdown makes it easy for even those without a web-publishing background to write prose (including with links, lists, bullets, etc.) and have it displayed like a website. GitHub supports Markdown, and you can [learn about the semantics.](https://help.github.com/categories/writing-on-github/){:target="_blank"}
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
