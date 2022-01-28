@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Binary Files
+title: 4-Binary Files
 nav_order: 5
 parent: Workshop Activities
 ---
