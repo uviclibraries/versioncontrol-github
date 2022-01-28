@@ -72,7 +72,7 @@ If you and your group have any questions, or get stuck as you work through this 
     ```
     
     <img src="images/act-1/5-6.gif" alt="saving work" style="width:720px;">
-    <img src="images/act-1/5-7.png" alt="changes" style="float:right;width:180px;">
+    <img src="images/act-1/5-7.png" alt="changes" style="float:right;width:240px;">
     
     -   Now go to GitHub Desktop, and click on the **Changes** tab, add a short summary of the changes you made (e.g.: “Created test.html & linked to it from index.html”), and press the blue **Commit to master** / **Commit to main** button.
     -   Try deleting the “blink” tags in the **index.html** file, and then “commit” the changes. If you have any problems with this, ask the person leading the workshop for a hand.
