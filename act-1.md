@@ -83,7 +83,7 @@ If you and your group have any questions, or get stuck as you work through this 
     -   To review changes to files, click on the **History** tab in GitHub Desktop, and select the commits that you would like to look at.
     
     <img src="images/act-1/6.png" alt="history" style="width:720px;">
-    <img src="images/act-1/6-2.png" alt="repository settings" style="float:right;width:240px;">
+    <img src="images/act-1/6-2.png" alt="repository settings" style="float:right;width:360px;">
     
     -   If you want to ignore some files (e.g.,image files,which GitHub can’t track changes in), you can do that in GitHub Desktop by going to the **Repository** menu, and selecting **Repository Settings**. Then click on the **Ignored Files** tab. Enter: <b>&ast;.jpg</b> in the dialog box, then press the **Save** button. Commit the change you just made to the **.gitignore** file.
 7.  Congratulations! Next you can work through the handout on how to use GitHub for collaboration with others.
