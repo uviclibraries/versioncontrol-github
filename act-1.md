@@ -7,19 +7,18 @@ parent: Workshop Activities
 
 # Getting Started
 
+<img src="images/act-1/4.png" alt="new repository" style="float:right;width:360px;">
+
 If you and your group have any questions, or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1.  If you haven’t already, please [create an account](http://github.com){:target="_blank"} for yourself.
 2.  [Install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
 
-    <img src="images/act-1/4.png" alt="new repository" style="float:right;width:360px;">
+    <img src="images/act-1/3.png" alt="create repository" style="float:right;width:360px;">
 
 3.  [Install the Atom text editor](https://atom.io/){:target="_blank"} on your laptop.
 4.  Create a new local repository in GitHub Desktop:
     -   Start by selecting the **File** menu then, **New Repository...**
-    
-    <img src="images/act-1/3.png" alt="create repository" style="float:right;width:360px;">
-    
     -   Finish creating the new repository by filling in the Name, checking the Initialize with README.
     -   Click on **Create Repository**.
 
