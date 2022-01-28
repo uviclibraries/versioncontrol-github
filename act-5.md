@@ -20,7 +20,7 @@ RStudio with GitHub version control integration allows us to track the developme
     
     -   Go to the top menu and select **Tools** then **Global Options** then **GIT/SVN**.
     -   On a **Mac** laptop the Git executable path should be: `/usr/bin/git`
-    -   On **Windows**, you’ll need to click on the **Browse** button beside the “Git executable” field, and then browse to the Git executable file, which on my windows computer is buried deep in the file system (your path will be similar, but will not include “<username>” for example): `C:\Users\<username>\AppData\Local\GitHubDesktop\app-<#.#.#>\resources\app\git\cmd\git.exe`
+    -   On **Windows**, you’ll need to click on the **Browse** button beside the “Git executable” field, and then browse to the Git executable file, which on my windows computer is buried deep in the file system (your path will be similar, but will not include “<username>” for example): `C:\Users\<username>\AppData\Local\GitHubDesktop\app-\resources\app\git\cmd\git.exe`
     -   **Note:** _If you have a windows laptop and are having problems finding the Git executable, please ask the person leading this workshop for help._
 5.  Create a new project in **RStudio**:
     -   Select the **File** menu, **New Project…**, and  then the **Existing Directory** button.
