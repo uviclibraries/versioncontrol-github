@@ -11,12 +11,12 @@ If you and your group have any questions or get stuck as you work through this i
 
 1.  If you haven’t already, please either work through the _Version Control with GitHub #1 Workshop - Getting Started_ handout, or launch GitHub Desktop and open a repository you’ve already created.
 
-    <img src="images/act-2/1.png" alt="publish repository" style="float:right;width:240px;">
+    <img src="images/act-2/2.png" alt="publish repository" style="float:right;width:360px;">
 
 2.  Publish your repository to GitHub:
     -   In GitHub Desktop, press the **Publish repository** button at the top of the program.
     
-    <img src="images/act-2/2.png" alt="publish repository" style="float:right;width:240px;">
+        <img src="images/act-2/1.png" alt="publish repository" style="width:240px;">
     
     -   Verify the name of the repository, **deselect** the **“Keep this code private”** checkbox, and then press the blue **Publish Repository** button.
     -   A copy of your repository is now on the GitHub website. Go to [https://github.com/](https://github.com/){:target="_blank"} and log on to see your repository there.
