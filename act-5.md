@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RStudio Integration
+title: 5-RStudio Integration
 nav_order: 6
 parent: Workshop Activities
 ---
