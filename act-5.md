@@ -12,12 +12,12 @@ parent: Workshop Activities
 RStudio with GitHub version control integration allows us to track the development of a project over time, revert to previous versions, and to collaborate with others. If you have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.
 
 1.  If you haven’t already, go to [http://github.com](http://github.com){:target="_blank"} and create an account for yourself.
+
+    <img src="images/act-5/4.png" alt="configure rstudio to use github" style="float:right;width:360px;">
+
 2.  If you haven’t already, [install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
 3.  If you haven’t already, [install the free version of RStudio](https://www.rstudio.com/){:target="_blank"} on your laptop.
 4.  Configure RStudio to use GitHub:
-    
-    <img src="images/act-5/4.png" alt="configure rstudio to use github" style="float:right;width:360px;">
-    
     -   Go to the top menu and select **Tools** then **Global Options** then **GIT/SVN**.
     -   On a **Mac** laptop the Git executable path should be: `/usr/bin/git`
     -   On **Windows**, you’ll need to click on the **Browse** button beside the “Git executable” field, and then browse to the Git executable file, which on my windows computer is buried deep in the file system (your path will be similar, but will not include “&lt;username&gt;” for example): `C:\Users\<username>\AppData\Local\GitHubDesktop\app-<#.#.#>\resources\app\git\cmd\git.exe`
