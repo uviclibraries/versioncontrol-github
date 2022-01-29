@@ -5,7 +5,7 @@ nav_order: 7
 parent: Workshop Activities
 ---
 
-<img src="images/act-6/0.png" alt="github logo" style="float:right;width:180px;">
+<img src="images/act-6/0.png" alt="github logo" style="float:right;width:240px;">
 
 # Glossary
 
