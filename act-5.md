@@ -13,7 +13,7 @@ RStudio with GitHub version control integration allows us to track the developme
 
 1.  If you haven’t already, go to [http://github.com](http://github.com){:target="_blank"} and create an account for yourself.
 
-    <img src="images/act-5/4.png" alt="configure rstudio to use github" style="float:right;width:360px;">
+    <img src="images/act-5/4.png" alt="configure rstudio to use github" style="float:right;width:480px;">
 
 2.  If you haven’t already, [install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
 3.  If you haven’t already, [install the free version of RStudio](https://www.rstudio.com/){:target="_blank"} on your laptop.
