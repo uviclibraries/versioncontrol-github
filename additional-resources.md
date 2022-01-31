@@ -5,8 +5,10 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## GitHub Resources
 
+- [GitHub Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf){:target="_blank"}
+- **More Coming Soon**
 
 ## Acknowledgements
 
