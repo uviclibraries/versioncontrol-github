@@ -11,12 +11,12 @@ If you and your group have any questions or get stuck as you work through this i
 
 1.  If you haven’t already, please either work through the _Version Control with GitHub #1 Workshop - Getting Started_ handout, or launch GitHub Desktop and open a repository you’ve already created.
 
-    <img src="images/act-2/2.png" alt="publish repository" style="float:right;width:360px;">
+    <img src="images/act-2/2.png" alt="publish repository" style="float:right;width:360px;margin-left:10px;">
 
 2.  Publish your repository to GitHub:
     -   In GitHub Desktop, press the **Publish repository** button at the top of the program.
     
-        <img src="images/act-2/1.png" alt="publish repository" style="width:240px;">
+        <img src="images/act-2/1.png" alt="publish repository" style="width:240px;margin-left:10px;">
     
     -   Verify the name of the repository, **deselect** the **“Keep this code private”** checkbox, and then press the blue **Publish Repository** button.
     -   A copy of your repository is now on the GitHub website. Go to [https://github.com/](https://github.com/){:target="_blank"} and log on to see your repository there.
@@ -40,7 +40,7 @@ If you and your group have any questions or get stuck as you work through this i
     -   Let’s take a look at a map of your newly branched repository on the GitHub website: [http://github.com](http://github.com){:target="_blank"}
     -   Click on the **Code** tab up top, and then the **branches** tab in the middle of the screen.
 
-    <img src="images/act-2/3-3.png" alt="clone or download" style="float:right;width:360px;">
+    <img src="images/act-2/3-3.png" alt="clone or download" style="float:right;width:360px;margin-left:10px;">
 
 4.  To participate in another project hosted on the GitHub website, you’ll need to Clone or Download the repository:
     -   Go to [this URL](http://bit.ly/scholar-py){:target="_blank"} and then select the green **Clone or download** dropdown, and then press the **Open in Desktop** button.
