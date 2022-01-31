@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/logo.png" alt="logo" style="float:right;width:180px;">
+<img src="images/logo.png" alt="logo" style="float:right;width:240px;margin-left:10px;">
 
 # Introduction to Version Control With GitHub
 
