@@ -24,21 +24,21 @@ RStudio with GitHub version control integration allows us to track the developme
 
 5.  Create a new project in **RStudio**:
     -   Select the **File** menu, **New Project…**, and  then the **Existing Directory** button.
+    
+    <img src="images/act-5/5.png" alt="" style="float:right;width:360px;margin-left:10px;">
+    
     -   Click the **Browse…** button & select or create the directory for your project (e.g. ~/Documents/r-git ).
-    
-    <img src="images/act-5/5.png" alt="" style="float:right;width:240px;margin-left:10px;">
-    
     -   Press the **Create Project** button.
     -   Select the **Tools** menu, **Project Options…**, and  then select the **Git/SVN** button.
     -   Click on the **Version control system** drop down and select, **Git**, and the press the **OK** button.
+    
+    <img src="images/act-5/5-2.png" alt="" style="float:right;width:360px;margin-left:10px;">
+    
     -   A dialog box may appear asking **“do you want to initialize a new git repository for this project”**. Click **Yes**.
-    
-    <img src="images/act-5/5-2.png" alt="" style="float:right;width:240px;margin-left:10px;">
-    
     -   You should now see a new little “Git” icon on the top of your RStudio tool bar that looks like this (see right):
     -   **Note:** _If you don’t see the little Git icon, ask the person leading the workshop for assistance._
 
-    <img src="images/act-5/6.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-5/6.png" alt="" style="float:right;width:360px;margin-left:10px;">
 
 6.  Create a new file for your new RStudio/Git repository & Commit:
     -   Select the **File** menu, **New File**, and then **Text File**.
@@ -47,7 +47,7 @@ RStudio with GitHub version control integration allows us to track the developme
     -   Press the **Git icon** in the top menu of RStudio, and then press the **Commit…** button.
     -   A large dialog box will appear where you can enter a commit message.
     
-    <img src="images/act-5/6-2.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-5/6-2.png" alt="" style="float:right;width:360px;margin-left:10px;">
     
     -   Select the checkboxes beside the files that you want to commit. Then press **Commit**.
     -   Close the dialog box that told you what Git just did for you.
