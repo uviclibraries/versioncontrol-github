@@ -25,43 +25,43 @@ RStudio with GitHub version control integration allows us to track the developme
 5.  Create a new project in **RStudio**:
     -   Select the **File** menu, **New Project…**, and  then the **Existing Directory** button.
     -   Click the **Browse…** button & select or create the directory for your project (e.g. ~/Documents/r-git ).
+    
+    <img src="images/act-5/5.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    
     -   Press the **Create Project** button.
-    
-    <img src="images/act-5/5.png" alt="" style="float:right;width:180px;margin-left:10px;">
-    
     -   Select the **Tools** menu, **Project Options…**, and  then select the **Git/SVN** button.
     -   Click on the **Version control system** drop down and select, **Git**, and the press the **OK** button.
     -   A dialog box may appear asking **“do you want to initialize a new git repository for this project”**. Click **Yes**.
     
-    <img src="images/act-5/5-2.png" alt="" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-5/5-2.png" alt="" style="float:right;width:240px;margin-left:10px;">
     
     -   You should now see a new little “Git” icon on the top of your RStudio tool bar that looks like this (see right):
     -   **Note:** _If you don’t see the little Git icon, ask the person leading the workshop for assistance._
+
+    <img src="images/act-5/6.png" alt="" style="float:right;width:240px;margin-left:10px;">
+
 6.  Create a new file for your new RStudio/Git repository & Commit:
-    
-    <img src="images/act-5/6.png" alt="" style="float:right;width:180px;margin-left:10px;">
-    
     -   Select the **File** menu, **New File**, and then **Text File**.
     -   Add some text to your document (e.g. “It is so a planet!”)
     -   Save the file: **File** menu, and then **Save**. Name the file **"pluto.txt"** and press the **Save** button.
     -   Press the **Git icon** in the top menu of RStudio, and then press the **Commit…** button.
     -   A large dialog box will appear where you can enter a commit message.
+    
+    <img src="images/act-5/6-2.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    
     -   Select the checkboxes beside the files that you want to commit. Then press **Commit**.
-    
-    <img src="images/act-5/6-2.png" alt="" style="float:right;width:180px;margin-left:10px;">
-    
     -   Close the dialog box that told you what Git just did for you.
     -   Next, close the **RStudio: Review Changes** dialog box.
     -   Add a second line to your pluto.txt file: **“And it is cold and out of the way.”**
     -   Save the file, and then Commit the file again in the same way you just did (steps **b** to **h**).
 
-    <img src="images/act-5/6-3.png" alt="" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-5/6-3.png" alt="" style="float:right;width:240px;margin-left:10px;">
 
 7.  Git History: If you’d like to see the history of commits you’ve made, press the **Git icon** in the top menu of RStudio, and then press **History**. You can now click on each of the checkins to see the comments and file changes.
 8.  Open your RStudio repository in **GitHub Desktop**:
     -   In GitHub Desktop, select **File** then **Add Local Repository…**, then click the **Choose** button and navigate to the location where you created your RStudio project (e.g. ~/Documents/r-git ) and then press the blue **Add Repository** button.
     
-    <img src="images/act-5/8.png" alt="" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-5/8.png" alt="" style="float:right;width:240px;margin-left:10px;">
     
     -   Lastly, let’s publish the repository to GitHub by clicking on the **Publish repository** button. Now you can share your repository in sync it with other computers.
 
