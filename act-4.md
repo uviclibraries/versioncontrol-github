@@ -5,7 +5,7 @@ nav_order: 5
 parent: Workshop Activities
 ---
 
-<img src="images/act-4/0.png" alt="logo" style="float:right;width:180px;">
+<img src="images/act-4/0.png" alt="logo" style="float:right;width:180px;margin-left:10px;">
 
 # Binary Files - DOCX, JPG & More
 
@@ -18,7 +18,7 @@ GitHub can not only help you manage code or text based project, but also allows 
 5.  Let’s add two binary files to your repository, and then commit changes in GitHub Desktop:
     -   First in GitHub Desktop, make sure you are in the **master / main** branch, and that you are in sync with your GitHub repository by pressing the **Fetch origin** button.
     
-    <img src="images/act-4/5.png" alt="show in finder" style="float:right;width:240px;">
+    <img src="images/act-4/5.png" alt="show in finder" style="float:right;width:240px;margin-left:10px;">
     
     -   Open up the GitHub project folder on your local hard drive by going to the **Repository** menu, then if you have a Mac **Show in Finder**, or on a Windows computer, **Show in Explorer**.
     -   In Microsoft Word (or another word processor) open a blank document, type a line of text into it, and then save the file in the directory that your Git repository is in. For example on a mac the path to the new Word file in the Git repository is:
@@ -33,7 +33,7 @@ GitHub can not only help you manage code or text based project, but also allows 
     
     -   Let’s add another file to the repository:
         
-        <img src="images/act-4/5-3.png" alt="add a photo" style="float:right;width:240px;">
+        <img src="images/act-4/5-3.png" alt="add a photo" style="float:right;width:240px;margin-left:10px;">
         
         -   Open the following web page: [http://bit.ly/little-goat](http://bit.ly/little-goat){:target="_blank"}
         -   Download the JPG image to your hard drive by right mouse clicking on the image, and selecting **Save Image As…** and save it to the folder that contains your Git repository.
