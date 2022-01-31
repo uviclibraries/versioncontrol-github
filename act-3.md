@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images/act-3/0.png" alt="logo" style="float:right;width:180px;margin-left:10px;">
+<img src="images/act-3/0.png" alt="logo" style="float:right;width:240px;margin-left:10px;">
 
 # Collaborating With Conflict
 
