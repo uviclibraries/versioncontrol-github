@@ -12,7 +12,7 @@ parent: Workshop Activities
 If you and your group have any questions, or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1.  If you haven’t already, please work through the _Version Control with GitHub #1 Workshop - Getting Started_ handout -and- _GitHub #2 Workshop - Collaborating._
-2.  Let’s create a conflict in the index.html file so that we can later resolve it:
+2.  Let’s create a conflict in the **index.html** file so that we can later resolve it:
     -   In your Atom editor change the 2nd line of code to: `<h1>My Test GitHub Document Too</h1>`
     
     <img src="images/act-3/2.png" alt="select branch" style="float:right;width:360px;margin-left:10px;">
