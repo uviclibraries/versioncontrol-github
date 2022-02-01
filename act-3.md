@@ -13,13 +13,13 @@ If you and your group have any questions, or get stuck as you work through this 
 
 1.  If you haven’t already, please work through the _Version Control with GitHub #1 Workshop - Getting Started_ handout -and- _GitHub #2 Workshop - Collaborating._
 2.  Let’s create a conflict in the **index.html** file so that we can later resolve it:
-    -   In your Atom editor change the 2nd line of code to: `<h1>My Test GitHub Document Too</h1>`
+    -   In your Atom editor change the 2nd line of code to:<br>`<h1>My Test GitHub Document Too</h1>`<br>
     
     <img src="images/act-3/2.png" alt="select branch" style="float:right;width:360px;margin-left:10px;">
     
     -   Save and then in GitHub Desktop commit the change under the Changes tab.
     -   In Github Desktop, click on the **Current Branch** tab on the top navigation bar, and then select **master / main**. If you were watching your Atom editor as you selected **master / main**, you would have seen the text in the **index.html** file change as you switched from the **goats** branch, back to the **master / main** trunk.
-    -   Back in your Atom editor change the 2nd line of code in **index.html** to: `<h1>My Test GitHub Document 2</h1>`
+    -   Back in your Atom editor change the 2nd line of code in **index.html** to:<br>`<h1>My Test GitHub Document 2</h1>`<br>
     -   Save and then in GitHub Desktop “commit the change” you just made.
     -   Now push those changes to **master / main** trunk to the GitHub website by pressing the “Push origin” button at the top of GitHub Desktop.
     
