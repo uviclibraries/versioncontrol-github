@@ -19,7 +19,7 @@ If you and your group have any questions, or get stuck as you work through this 
     
     -   Save and then in GitHub Desktop commit the change under the Changes tab.
     -   In Github Desktop, click on the **Current Branch** tab on the top navigation bar, and then select **master / main**. If you were watching your Atom editor as you selected **master / main**, you would have seen the text in the **index.html** file change as you switched from the **goats** branch, back to the **master / main** trunk.
-    -   Back in your Atom editor change the 2nd line of code in index.html to: `<h1>My Test GitHub Document 2</h1>`
+    -   Back in your Atom editor change the 2nd line of code in **index.html** to: `<h1>My Test GitHub Document 2</h1>`
     -   Save and then in GitHub Desktop “commit the change” you just made.
     -   Now push those changes to **master / main** trunk to the GitHub website by pressing the “Push origin” button at the top of GitHub Desktop.
     
