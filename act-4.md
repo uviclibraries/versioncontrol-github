@@ -20,7 +20,7 @@ GitHub can not only help you manage code or text based project, but also allows 
     
     <img src="images/act-4/5.png" alt="show in finder" style="float:right;width:240px;margin-left:10px;">
     
-    -   Open up the GitHub project folder on your local hard drive by going to the **Repository** menu, then if you have a Mac **Show in Finder**, or on a Windows computer, **Show in Explorer**.
+    -   Open up the GitHub project folder on your local hard drive by going to the **Repository** menu. Then, if you have a Mac, **Show in Finder**, or on a Windows computer, **Show in Explorer**.
     -   In Microsoft Word (or another word processor) open a blank document, type a line of text into it, and then save the file in the directory that your Git repository is in. For example on a mac the path to the new Word file in the Git repository is:
     
     ```
