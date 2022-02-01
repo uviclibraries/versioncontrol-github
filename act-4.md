@@ -14,7 +14,7 @@ GitHub can not only help you manage code or text based project, but also allows 
 1.  If you haven’t already, go to [http://github.com](http://github.com){:target="_blank"} and create an account for yourself.
 2.  If you haven’t already, [install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
 3.  On your laptop open up Microsoft Word or another word processor.
-4.  If you haven’t already, please either work through the _Version Control with GitHub #1 Workshop - Collaborating_ handout.
+4.  If you haven’t already, please work through the _Version Control with GitHub #1 Workshop - Collaborating_ handout.
 5.  Let’s add two binary files to your repository, and then commit changes in GitHub Desktop:
     -   First in GitHub Desktop, make sure you are in the **master / main** branch, and that you are in sync with your GitHub repository by pressing the **Fetch origin** button.
     
