@@ -27,7 +27,7 @@ GitHub can not only help you manage code or text based project, but also allows 
     /Users/UserName/Documents/dsc-code-text/JustTesting.docx
     ```
     
-    -   Let’s start to track the changes in **JustTesting.docx** by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see **Summary** field; fill it out with a short description (e.g.: “Just created a test word document”)  and then press the blue **Commit to master / Commit to main** button below.
+    -   Let’s start to track the changes in **JustTesting.docx** by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see the **Summary** field; fill it out with a short description (e.g.: “Just created a test word document”)  and then press the blue **Commit to master / Commit to main** button below.
     
     <img src="images/act-4/5-2.gif" alt="committing a word document" style="width:720px;">
     
