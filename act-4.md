@@ -37,8 +37,8 @@ GitHub can not only help you manage code or text based project, but also allows 
         
         -   Open the following web page: [http://bit.ly/little-goat](http://bit.ly/little-goat){:target="_blank"}
         -   Download the JPG image to your hard drive by right mouse clicking on the image, and selecting **Save Image As…** and save it to the folder that contains your Git repository.
-    -   Now go to GitHub Desktop, and click on the **Changes** tab. You may notice that your **goat.jpg** file is not there because you added <b>&ast;.jpg</b> to your **.gitignore** file.
-    -   In your Atom editor, open **.gitignore**, and remove <b>&ast;.jpg</b> from the file. Save the file.
+    -   Now go to GitHub Desktop, and click on the **Changes** tab. You may notice that your **goat.jpg** file is not there because you added <b>*.jpg</b> to your **.gitignore** file.
+    -   In your Atom editor, open **.gitignore**, and remove <b>*.jpg</b> from the file. Save the file.
     -   Go back to GitHub Desktop, click on the **Changes** tab, and then add a short summary of the changes you made (e.g.: **“Added a pic of a miniature goat”**), and press the blue **Commit to master / Commit to main** button.
     -   Let’s push these new files to your GitHub hosted repository, by pressing the **Push origin** button on the top navigation bar. This may take a minute because of the side of the goat.jpg file.
     
