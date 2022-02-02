@@ -30,7 +30,7 @@ RStudio with GitHub version control integration allows us to track the developme
     -   Click the **Browse…** button & select or create the directory for your project (e.g. ~/Documents/r-git ).
     -   Press the **Create Project** button.
     -   Select the **Tools** menu, **Project Options…**, and  then select the **Git/SVN** button.
-    -   Click on the **Version control system** drop down and select, **Git**, and the press the **OK** button.
+    -   Click on the **Version control system** drop down and select **Git**, and the press the **OK** button.
     
     <img src="images/act-5/5-2.png" alt="" style="float:right;width:360px;margin-left:10px;">
     
