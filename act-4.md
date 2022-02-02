@@ -49,7 +49,7 @@ GitHub can not only help you manage code or text based project, but also allows 
     -   Go to GitHub Desktop, and click on the **Changes** tab, add a short summary of the changes you made (e.g.: “Added a line to the document”), and press the blue **Commit to master / Commit to main**.
     -   **OPTIONAL:** Edit the JPG image and commit the change in GitHub Desktop.
     -   Push these changes to your GitHub hosted repository, by pressing the **Push origin** button on the top navigation bar.
-7.  You can checkout all the files and changes you’ve made to your online Git repository by going to [https://github.com](https://github.com){:target="_blank"} and signing in to your account.
+7.  You can check out all the files and changes you’ve made to your online Git repository by going to [https://github.com](https://github.com){:target="_blank"} and signing in to your account.
 8.  Congratulations, you’ve added, committed and pushed two new binary files to your local and online Git repositories!
 
 [NEXT STEP: RStudio Integration](act-5.html){: .btn .btn-blue }
