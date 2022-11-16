@@ -65,4 +65,5 @@ RStudio with GitHub version control integration allows us to track the developme
     
     -   Lastly, let’s publish the repository to GitHub by clicking on the **Publish repository** button. Now you can share your repository and sync it with other computers.
 
+
 [NEXT STEP: Glossary](act-6.html){: .btn .btn-blue }

@@ -3,6 +3,7 @@ layout: default
 title: 3-Collaborating With Conflict
 nav_order: 4
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/act-3/0.png" alt="logo" style="float:right;width:240px;margin-left:10px;">
@@ -28,8 +29,13 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Next click on the **Current Branch** tab on the top nav bar, and select **goats**. Push the change to the **goat** branch to the GitHub website by selecting **Push origin**.
     -   We just created a conflict in the **index.html** file between both the **master** and **goats**.
     
-    <img src="images/act-3/2-3.gif" alt="create conflict" style="width:720px;">
-    <img src="images/act-3/3-first.png" alt="pull requests" style="float:right;width:360px;margin-left:10px;">
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+ <img src="images/act-3/2-3.gif" alt="create conflict" style="width:720px;">
+</div>
+
+   
+<img src="images/act-3/3-first.png" alt="pull requests" style="float:right;width:360px;margin-left:10px;">
     
 3.  Let’s resolve the conflict now:
     -   Open up [https://github.com](https://github.com){:target="_blank"} and navigate to your project. Click on the **Pull requests** tab, and then press the green **New pull request** button on the right of the screen.
@@ -44,10 +50,29 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Lastly on the next page that comes up, select the green **Merge pull request**, and then **Confirm merge**. Done!
 4.  Let’s bring up the network map of the changes you’ve made in your repository.
     
-    <img src="images/act-3/3-2.gif" alt="manual merging" style="width:720px;">
+    <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+ <img src="images/act-3/3-2.gif" alt="manual merging" style="width:720px;">
+</div>
+
+   
     
-    -   Let’s take a look at a map of your newly un-conflicted repository on the [GitHub website](http://github.com){:target="_blank"}
+-   Let’s take a look at a map of your newly un-conflicted repository on the [GitHub website](http://github.com){:target="_blank"}
     -   Click on the **Code** tab up top, and then the **branches** tab in the middle of the screen.
+    
 5.  Congratulations! You’ve successfully resolved a conflict in GitHub Desktop!
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 
 [NEXT STEP: Binary Files - DOCX, JPG & More](act-4.html){: .btn .btn-blue }

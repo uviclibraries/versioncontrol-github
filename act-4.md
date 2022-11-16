@@ -3,6 +3,7 @@ layout: default
 title: 4-Binary Files
 nav_order: 5
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/act-4/0.png" alt="logo" style="float:right;width:180px;margin-left:10px;">
@@ -29,21 +30,28 @@ GitHub can not only help you manage code or text based project, but also allows 
     
     -   Let’s start to track the changes in **JustTesting.docx** by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see the **Summary** field; fill it out with a short description (e.g.: “Just created a test word document”)  and then press the blue **Commit to master / Commit to main** button below.
     
-    <img src="images/act-4/5-2.gif" alt="committing a word document" style="width:720px;">
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/act-4/5-2.gif" alt="committing a word document" style="width:720px;">
+</div>
     
-    -   Let’s add another file to the repository:
+-   Let’s add another file to the repository:
         
-        <img src="images/act-4/5-3.png" alt="add a photo" style="float:right;width:240px;margin-left:10px;">
+     <img src="images/act-4/5-3.png" alt="add a photo" style="float:right;width:240px;margin-left:10px;">
         
-        -   Open the following web page: [http://bit.ly/little-goat](http://bit.ly/little-goat){:target="_blank"}
-        -   Download the JPG image to your hard drive by right mouse clicking on the image, and selecting **Save Image As…** and save it to the folder that contains your Git repository.
+    -   Open the following web page: [http://bit.ly/little-goat](http://bit.ly/little-goat){:target="_blank"}
+    -   Download the JPG image to your hard drive by right mouse clicking on the image, and selecting **Save Image As…** and save it to the folder that contains your Git repository.
     -   Now go to GitHub Desktop, and click on the **Changes** tab. You may notice that your **goat.jpg** file is not there because you added <b>*.jpg</b> to your **.gitignore** file.
     -   In your Atom editor, open **.gitignore**, and remove <b>*.jpg</b> from the file. Save the file.
     -   Go back to GitHub Desktop, click on the **Changes** tab, and then add a short summary of the changes you made (e.g.: **“Added a pic of a miniature goat”**), and press the blue **Commit to master / Commit to main** button.
     -   Let’s push these new files to your GitHub hosted repository, by pressing the **Push origin** button on the top navigation bar. This may take a minute because of the side of the goat.jpg file.
     
-    <img src="images/act-4/5-4.gif" alt="committing a photo" style="width:720px;">
-    
+    <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+ <img src="images/act-4/5-4.gif" alt="committing a photo" style="width:720px;">
+</div>
+
+     
 6.  Make changes to your Word document and optionally the JPG file:
     -   Open the document you saved in your Git repository (e.g. **JustTesting.docx**), add some text to it and then save it.
     -   Go to GitHub Desktop, and click on the **Changes** tab, add a short summary of the changes you made (e.g.: “Added a line to the document”), and press the blue **Commit to master / Commit to main**.
@@ -51,5 +59,18 @@ GitHub can not only help you manage code or text based project, but also allows 
     -   Push these changes to your GitHub hosted repository, by pressing the **Push origin** button on the top navigation bar.
 7.  You can check out all the files and changes you’ve made to your online Git repository by going to [https://github.com](https://github.com){:target="_blank"} and signing in to your account.
 8.  Congratulations, you’ve added, committed and pushed two new binary files to your local and online Git repositories!
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 
 [NEXT STEP: RStudio Integration](act-5.html){: .btn .btn-blue }

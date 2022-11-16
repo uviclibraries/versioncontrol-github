@@ -3,6 +3,7 @@ layout: default
 title: 2-Collaborating
 nav_order: 3
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Collaborating
@@ -21,7 +22,12 @@ If you and your group have any questions or get stuck as you work through this i
     -   Verify the name of the repository, **deselect** the **“Keep this code private”** checkbox, and then press the blue **Publish Repository** button.
     -   A copy of your repository is now on the GitHub website. Go to [https://github.com/](https://github.com/){:target="_blank"} and log on to see your repository there.
     
-    <img src="images/act-2/2-2.gif" alt="publish repository" style="width:720px;">
+    <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/act-2/2-2.gif" alt="publish repository" style="width:720px;">
+</div>
+
+    
     
 3.  Branching, Pull requests, & Merges:
     -   In the Atom text editor, add a line to the **index.html** file (just above **</html>** tag): `<p>Here is my "goat" branch test.</p>`
@@ -35,7 +41,12 @@ If you and your group have any questions or get stuck as you work through this i
     -   Lastly, we need to commit our new goat branch by entering a summary of what we’ve done (e.g. “Create a goat branch”) in the Summary field at the bottom left of GitHub Desktop, and then press the blue **Commit to goats** button.
     -   Lastly, publish your repository again to GitHub by pressing the **Publish branch** button in GitHub Desktop.
     
-    <img src="images/act-2/3-2.gif" alt="create and publish branch" style="width:720px;">
+    <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+<img src="images/act-2/3-2.gif" alt="create and publish branch" style="width:720px;">
+</div>
+
+    
     
     -   Let’s take a look at a map of your newly branched repository on the GitHub website: [http://github.com](http://github.com){:target="_blank"}
     -   Click on the **Code** tab up top, and then the **branches** tab in the middle of the screen.
@@ -47,5 +58,18 @@ If you and your group have any questions or get stuck as you work through this i
     -   GitHub Desktop should have launched, and you’ll see a copy of the repository on your laptop now.
     -   You can now make changes locally and submit pull requests for this project back to the GitHub hosted repository if you have anything to add to this project.
     -   **Note:** _Please don’t submit any pull requests for this project unless you have a real patch or feature upgrade to suggest._
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 
 [NEXT STEP: Collaborating With Conflict](act-3.html){: .btn .btn-blue }
