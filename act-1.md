@@ -98,9 +98,7 @@ If you and your group have any questions, or get stuck as you work through this 
      <div id="gif5">
      <img src="images/act-1/5-8.gif" alt="change and commit" style="width:720px;">
      </div>
-
     
-
 6.  Explore change history & ignore files:
     -   To review changes to files, click on the **History** tab in GitHub Desktop, and select the commits that you would like to look at.
     
