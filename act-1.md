@@ -56,21 +56,20 @@ If you and your group have any questions, or get stuck as you work through this 
     <p>Here’s a link to a page.</p>
     </html>
     ```
-    
-    <img src="images/act-1/5-4.png" alt="commit" style="float:right;width:240px;margin-left:10px;">
+  <img src="images/act-1/5-4.png" alt="commit" style="float:right;width:240px;margin-left:10px;">
     
     -   Save the file in Atom, and then go back to the GitHub Desktop program and you’ll notice that there is a blue dot beside the “Changes” tab. When you change one or more files, all the changed files will be listed below, ready for you to commit them, and track the changes you make between commits.
     -   Let’s start to track the changes in index.html by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see **Summary / Update** field; fill it out with a short description (e.g.: “Just created index.html”)  and then press the blue **Commit to master / Commit to main** button below.
     
-    <button onclick="toggle('gif3')">Show / Hide Animation </button>
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
  <img src="images/act-1/5-5.gif" alt="save and commit" style="width:720px;">
 </div>
 
     
  -   Let’s add another file to the repository. In the Atom editor, selecting **File** and then **New File**.
-    -   Save the file and give it a name by selecting **File** then **Save**. Call the file **“test.html”**.
-    -   Add the following HTML code to **test.html** and save it:
+ -   Save the file and give it a name by selecting **File** then **Save**. Call the file **“test.html”**.
+ -   Add the following HTML code to **test.html** and save it:
     
     ```
     <html>
@@ -94,7 +93,7 @@ If you and your group have any questions, or get stuck as you work through this 
  <img src="images/act-1/5-7.png" alt="changes" style="float:right;width:240px;margin-left:10px;">
     
  -   Now go to GitHub Desktop, and click on the **Changes** tab, add a short summary of the changes you made (e.g.: “Created test.html & linked to it from index.html”), and press the blue **Commit to master** / **Commit to main** button.
-    -   Try deleting the “blink” tags in the **index.html** file, and then “commit” the changes. If you have any problems with this, ask the person leading the workshop for a hand.
+ -   Try deleting the “blink” tags in the **index.html** file, and then “commit” the changes. If you have any problems with this, ask the person leading the workshop for a hand.
     
 <button onclick="toggle('gif5')">Show / Hide Animation </button>
 <div id="gif5">
