@@ -34,17 +34,15 @@ If you and your group have any questions, or get stuck as you work through this 
    -   Next, open up the Atom text editor, by going to the **Repository** menu, then **Open in External Editor** -or- **Open in Atom**.  **Note:** _You can use any text editor you’d like, but in this tutorial, we will be using the Atom editor._
    -   Your Atom text editor should open and have two files that were automatically generated when you created your test repository: **.gitattributes** & **README.md**
     
-     <img src="images/act-1/5-2.png" alt="new file" style="float:right;width:240px;margin-left:10px;">
+  <img src="images/act-1/5-2.png" alt="new file" style="float:right;width:240px;margin-left:10px;">
     
    -   Create a new file for your GitHub repository in Atom by selecting **File** and then **New File**.
    -   Let’s save the file and give it a name by selecting **File** then **Save**. Call the file **“index.html”** (without the quotation marks). Your new file will show up in the left hand navigation of Atom.
     
-    <button onclick="toggle('gif2')">Show / Hide Animation </button>
-    <div id="gif2">
-    <img src="images/act-1/5-3.gif" alt="work in atom" style="width:720px;">
-    </div>
-
-    
+     <button onclick="toggle('gif2')">Show / Hide Animation </button>
+     <div id="gif2">
+     <img src="images/act-1/5-3.gif" alt="work in atom" style="width:720px;">
+     </div> 
     
    -   Add the following HTML code to your index.html file:
     
@@ -60,10 +58,10 @@ If you and your group have any questions, or get stuck as you work through this 
    -   Save the file in Atom, and then go back to the GitHub Desktop program and you’ll notice that there is a blue dot beside the “Changes” tab. When you change one or more files, all the changed files will be listed below, ready for you to commit them, and track the changes you make between commits.
    -   Let’s start to track the changes in index.html by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see **Summary / Update** field; fill it out with a short description (e.g.: “Just created index.html”)  and then press the blue **Commit to master / Commit to main** button below.
     
-    <button onclick="toggle('gif3')">Show / Hide Animation </button>
-    <div id="gif3">
-    <img src="images/act-1/5-5.gif" alt="save and commit" style="width:720px;">
-    </div>
+     <button onclick="toggle('gif3')">Show / Hide Animation </button>
+     <div id="gif3">
+     <img src="images/act-1/5-5.gif" alt="save and commit" style="width:720px;">
+     </div>
 
     
    -   Let’s add another file to the repository. In the Atom editor, selecting **File** and then **New File**.
