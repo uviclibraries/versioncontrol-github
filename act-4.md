@@ -31,9 +31,9 @@ GitHub can not only help you manage code or text based project, but also allows 
     -   Let’s start to track the changes in **JustTesting.docx** by committing it in GitHub Desktop. At the bottom left of GitHub Desktop you’ll see the **Summary** field; fill it out with a short description (e.g.: “Just created a test word document”)  and then press the blue **Commit to master / Commit to main** button below.
     
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-<img src="images/act-4/5-2.gif" alt="committing a word document" style="width:720px;">
-</div>
+      <div id="gif1">
+      <img src="images/act-4/5-2.gif" alt="committing a word document" style="width:720px;">
+      </div>
     
 -   Let’s add another file to the repository:
         
@@ -47,9 +47,9 @@ GitHub can not only help you manage code or text based project, but also allows 
     -   Let’s push these new files to your GitHub hosted repository, by pressing the **Push origin** button on the top navigation bar. This may take a minute because of the side of the goat.jpg file.
     
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
- <img src="images/act-4/5-4.gif" alt="committing a photo" style="width:720px;">
-</div>
+    <div id="gif2">
+    <img src="images/act-4/5-4.gif" alt="committing a photo" style="width:720px;">
+    </div>
 
      
 6.  Make changes to your Word document and optionally the JPG file:

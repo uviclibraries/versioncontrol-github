@@ -29,10 +29,10 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Next click on the **Current Branch** tab on the top nav bar, and select **goats**. Push the change to the **goat** branch to the GitHub website by selecting **Push origin**.
     -   We just created a conflict in the **index.html** file between both the **master** and **goats**.
     
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
- <img src="images/act-3/2-3.gif" alt="create conflict" style="width:720px;">
-</div>
+   <button onclick="toggle('gif1')">Show / Hide Animation </button>
+   <div id="gif1">
+   <img src="images/act-3/2-3.gif" alt="create conflict" style="width:720px;">
+   </div>
 
    
 <img src="images/act-3/3-first.png" alt="pull requests" style="float:right;width:360px;margin-left:10px;">
@@ -51,9 +51,9 @@ If you and your group have any questions, or get stuck as you work through this 
 4.  Let’s bring up the network map of the changes you’ve made in your repository.
     
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
- <img src="images/act-3/3-2.gif" alt="manual merging" style="width:720px;">
-</div>
+    <div id="gif2">
+    <img src="images/act-3/3-2.gif" alt="manual merging" style="width:720px;">
+    </div>
 
    
     

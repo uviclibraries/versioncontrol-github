@@ -23,9 +23,9 @@ If you and your group have any questions or get stuck as you work through this i
     -   A copy of your repository is now on the GitHub website. Go to [https://github.com/](https://github.com/){:target="_blank"} and log on to see your repository there.
     
     <button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-<img src="images/act-2/2-2.gif" alt="publish repository" style="width:720px;">
-</div>
+    <div id="gif1">
+    <img src="images/act-2/2-2.gif" alt="publish repository" style="width:720px;">
+    </div>
 
     
     
@@ -42,9 +42,9 @@ If you and your group have any questions or get stuck as you work through this i
     -   Lastly, publish your repository again to GitHub by pressing the **Publish branch** button in GitHub Desktop.
     
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
-<img src="images/act-2/3-2.gif" alt="create and publish branch" style="width:720px;">
-</div>
+    <div id="gif2">
+    <img src="images/act-2/3-2.gif" alt="create and publish branch" style="width:720px;">
+    </div>
 
     
     
