@@ -35,7 +35,7 @@ GitHub can not only help you manage code or text based project, but also allows 
       <img src="images/act-4/5-2.gif" alt="committing a word document" style="width:720px;">
       </div>
     
--   Let’s add another file to the repository:
+    -   Let’s add another file to the repository:
         
      <img src="images/act-4/5-3.png" alt="add a photo" style="float:right;width:240px;margin-left:10px;">
         
@@ -49,9 +49,7 @@ GitHub can not only help you manage code or text based project, but also allows 
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
     <div id="gif2">
     <img src="images/act-4/5-4.gif" alt="committing a photo" style="width:720px;">
-    </div>
-
-     
+    </div>     
 6.  Make changes to your Word document and optionally the JPG file:
     -   Open the document you saved in your Git repository (e.g. **JustTesting.docx**), add some text to it and then save it.
     -   Go to GitHub Desktop, and click on the **Changes** tab, add a short summary of the changes you made (e.g.: “Added a line to the document”), and press the blue **Commit to master / Commit to main**.

@@ -48,6 +48,7 @@ If you and your group have any questions, or get stuck as you work through this 
     -   Now edit the text to resolve the conflict between the versions of **index.html** on this page, and click **Mark as resolved**.
     -   Next click on the green **Commit merge** on the top right.
     -   Lastly on the next page that comes up, select the green **Merge pull request**, and then **Confirm merge**. Done!
+
 4.  Let’s bring up the network map of the changes you’ve made in your repository.
     
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
@@ -57,10 +58,10 @@ If you and your group have any questions, or get stuck as you work through this 
 
    
     
--   Let’s take a look at a map of your newly un-conflicted repository on the [GitHub website](http://github.com){:target="_blank"}
+5.   Let’s take a look at a map of your newly un-conflicted repository on the [GitHub website](http://github.com){:target="_blank"}
     -   Click on the **Code** tab up top, and then the **branches** tab in the middle of the screen.
     
-5.  Congratulations! You’ve successfully resolved a conflict in GitHub Desktop!
+   Congratulations! You’ve successfully resolved a conflict in GitHub Desktop!
 
 <script>  
 
