@@ -66,18 +66,18 @@ If you and your group have any questions, or get stuck as you work through this 
      -   Save the file and give it a name by selecting **File** then **Save**. Call the file **“test.html”**.
      -   Add the following HTML code to **test.html** and save it:
     
-    ```
-    <html>
-    <h1>Test Document</h1>
-    <p>A document to link to.</p>
-    </html>
-    ```
+      ```
+      <html>
+      <h1>Test Document</h1>
+      <p>A document to link to.</p>
+      </html>
+      ```
     
      -   Edit the 4th line of the **index.html** file so that reads as follows then save the file:
     
-    ```
-    <p>Here’s <a href=”test.html”>a link</a> to a page.</p>
-    ```
+      ```
+      <p>Here’s <a href=”test.html”>a link</a> to a page.</p>
+      ```
     
      <button onclick="toggle('gif4')">Show / Hide Animation </button>
      <div id="gif4">
