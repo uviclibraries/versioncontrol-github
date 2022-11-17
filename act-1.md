@@ -33,8 +33,7 @@ If you and your group have any questions, or get stuck as you work through this 
 5.  Add files, commit changes in GitHub Desktop:
     -   Next, open up the Atom text editor, by going to the **Repository** menu, then **Open in External Editor** -or- **Open in Atom**.  **Note:** _You can use any text editor you’d like, but in this tutorial, we will be using the Atom editor._
     -   Your Atom text editor should open and have two files that were automatically generated when you created your test repository: **.gitattributes** & **README.md**
-    
-  <img src="images/act-1/5-2.png" alt="new file" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-1/5-2.png" alt="new file" style="float:right;width:240px;margin-left:10px;">
     
     -   Create a new file for your GitHub repository in Atom by selecting **File** and then **New File**.
     -   Let’s save the file and give it a name by selecting **File** then **Save**. Call the file **“index.html”** (without the quotation marks). Your new file will show up in the left hand navigation of Atom.
